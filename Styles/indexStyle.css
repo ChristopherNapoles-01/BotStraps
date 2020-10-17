@@ -67,7 +67,7 @@
 .vid iframe{
 	border:azure 2px solid;
 	margin:auto;
-	height: 50vh;
+	height: 350px;
 	padding:10px;
 }
 #content{
@@ -80,7 +80,7 @@
 #content p{
 	padding: 0px;
 	font-family: sans-serif;
-	line-height: 7vh;
+	line-height: 2;
 	font-size: 18px;
 	color: white;
 }
