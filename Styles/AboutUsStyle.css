@@ -1,17 +1,17 @@
-#body {
-	background-color: #03020a;
+#body{
 	font-family:Helvetica,sans-serif;
+	background-color: #03020a;
+	color:#eeedfa;
 }
 #navbar{
 	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("../images/covid.jpg") no-repeat center center/cover;
     color:white;
     padding:10px;
     padding-top: 5px;
-    overflow: auto;
-    margin-left: -20px;
+	overflow: auto;
+	margin-left: -20px;
 	margin-right: -15px;
 	padding-bottom: 0px;
-  
 }
 .headcont{
 	margin-top: 10px;
@@ -46,9 +46,8 @@
 	color:white;
 	display: inline;
 	margin-top: -10px;
-	margin-left: 5px;
-	padding-right: 30px;
-	
+	margin-left: 20px;
+	padding-right: 15px;
 }
 #container2 a:hover{
 	color:lightblue;
@@ -56,47 +55,33 @@
 .second{
 	text-align: center;
 	font-size: 24px;
-	font-family: sans-serif;
 	font-weight: bold;
 }
-.vid{
-	padding: 20px;
-	margin-top: 20px;
-}
-.vid iframe{
-	border:azure 2px solid;
-	margin:auto;
-	height: 350px;
-	padding:5px;
-}
-#content{
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url("../images/corona.jpg") no-repeat center center/cover;
-	margin: auto;
-	margin-top: 20px;
-	width: 80%;
-	padding: 20px;
-	border:#EDF5E1 solid 3px;
+#container{
+	border:3px whitesmoke solid;
 	border-radius: 5px;
+	height: 70%;
+	width: 800px;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	padding :30px;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),url("../images/CST.jpg") no-repeat center center/cover;
+
 }
-#content p{
-	padding: 0px;
-	font-family: sans-serif;
+#container h1{
+	text-align: center;
+}
+#container p{
+	margin-top: 30px;
+	font-size: 20px;
 	line-height: 40px;
-	font-size: 18px;
-	color: white;
-}
-#content li{
-	font-size: 16px;
-	color: white;
-}
-#content .secHeading{
-	font-weight: bold;
+	padding:10px;
 }
 #footing{
-	margin-top: 50px;
+	margin-top: 20px;
 	padding: 10px;
 }
 #footing p{
 	text-align: center;
-	color: azure;
+	color: whitesmoke;
 }
