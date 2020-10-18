@@ -37,8 +37,8 @@
 	margin-right:10px;
 }
 #navbar button
-{
-	margin-top: -120px;
+{	
+	margin-top: -10%;
 	margin-left: 90%;
 }
 #container2 a{
@@ -71,9 +71,8 @@
 }
 #content{
 	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url("../images/corona.jpg") no-repeat center center/cover;
-	margin: auto;
 	margin-top: 20px;
-	width: 80%;
+	width: 90%;
 	padding: 20px;
 	border:#EDF5E1 solid 3px;
 	border-radius: 5px;
