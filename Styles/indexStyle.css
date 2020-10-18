@@ -1,6 +1,7 @@
 #body {
 	background-color: #03020a;
 	font-family:Helvetica,sans-serif;
+	color:#eeedfa;
 }
 #navbar{
 	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("../images/covid.jpg") no-repeat center center/cover;
@@ -43,7 +44,7 @@
 }
 #container2 a{
 	text-decoration: none;
-	color:white;
+	color:#eeedfa;
 	display: inline;
 	margin-top: -10px;
 	margin-left: 5px;
@@ -86,7 +87,7 @@
 }
 #content li{
 	font-size: 16px;
-	color: white;
+	color:#eeedfa;
 }
 #content .secHeading{
 	font-weight: bold;
