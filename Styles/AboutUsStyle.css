@@ -9,6 +9,7 @@
     padding:10px;
     padding-top: 5px;
 	overflow: auto;
+	margin-right: -5px;
 	margin-left: -20px;
 	padding-bottom: 0px;
 }
