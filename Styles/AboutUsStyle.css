@@ -41,6 +41,10 @@
 	margin-top: -10%;
 	margin-left: 90%;
 }
+#navbar .about{
+	text-decoration: underline;
+	color:lightblue;
+}
 #container2 a{
 	text-decoration: none;
 	color:#eeedfa;

@@ -41,6 +41,10 @@
 	margin-top: -10%;
 	margin-left: 90%;
 }
+#navbar .tips{
+	text-decoration: underline;
+	color: lightblue;
+}
 #container2 a{
 	text-decoration: none;
 	color:#eeedfa;
@@ -61,6 +65,7 @@
 	margin-bottom: 40px;
 	margin-top: 70px;
 	border-radius: 5px;
+	border: gray solid 2px;
 }
 .row p{
 	font-size: 18px;
@@ -69,6 +74,31 @@
 .row h3{
 	margin-bottom: 20px;
 	font-weight: bold;
+}
+.closing{
+	text-align: center;
+	font-size: 25px;
+	margin-top:60px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+.row img{
+	height: 250px;
+	width: 300px;
+	margin-bottom: 20px;
+}
+.row b{
+	display: block;
+	text-align: center;
+}
+.row a{
+	color: white;
+}
+.row a:hover{
+	color: lightblue;
+}
+.box1{
+	margin-bottom: 40px;
 }
 #section1{
 	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("../images/stay.jpg") no-repeat center center/cover;
