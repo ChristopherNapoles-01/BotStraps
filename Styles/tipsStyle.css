@@ -75,35 +75,6 @@
 	margin-bottom: 20px;
 	font-weight: bold;
 }
-.closing{
-	text-align: center;
-	font-size: 25px;
-	margin-top:60px;
-	margin-bottom: 50px;
-	font-weight: bold;
-}
-.row img{
-	height: 250px;
-	width: 300px;
-	margin-bottom: 20px;
-}
-.row button{
-	display: block;
-	text-align: center;
-}
-.row a{
-	color: white;
-}
-.row a:hover{
-	text-decoration: none;
-}
-.row button:hover{
-	background: rgb(60, 60, 124);
-	border-color: rgb(60, 60, 124);
-}
-.box1{
-	margin-bottom: 40px;
-}
 #section1{
 	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("../images/stay.jpg") no-repeat center center/cover;
 
@@ -130,6 +101,35 @@
 #section6{
 	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("../images/groceries.jpg") no-repeat center center/cover;
 
+}
+.closing{
+	text-align: center;
+	font-size: 25px;
+	margin-top:60px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+.row img{
+	height: 250px;
+	width: 300px;
+	margin-bottom: 20px;
+}
+.row a{
+	color: white;
+}
+.row a:hover{
+	text-decoration: none;
+	color:white;
+}
+.row button{
+	display: block;
+}
+.row button:hover{
+	background: rgb(60, 60, 124);
+	border-color: rgb(60, 60, 124);
+}
+.box1{
+	margin-bottom: 40px;
 }
 #footing{
 	margin-top: 50px;
