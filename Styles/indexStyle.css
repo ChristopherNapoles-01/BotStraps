@@ -42,7 +42,6 @@
 	margin-left: 90%;
 }
 #navbar .index{
-	text-decoration: underline;
 	color: lightblue;
 }
 #container2 a{
@@ -52,6 +51,7 @@
 	margin-top: -10px;
 	margin-left: 5px;
 	padding-right: 30px;
+	font-weight: bold;
 	
 }
 #container2 a:hover{
@@ -85,7 +85,7 @@
 	border-radius: 5px;
 }
 #content p{
-	padding: 0px;
+	
 	font-family: sans-serif;
 	line-height: 40px;
 	font-size: 18px;

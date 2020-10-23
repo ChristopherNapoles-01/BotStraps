@@ -42,7 +42,6 @@
 	margin-left: 90%;
 }
 #navbar .tips{
-	text-decoration: underline;
 	color: lightblue;
 }
 #container2 a{
@@ -52,9 +51,10 @@
 	margin-top: -10px;
 	margin-left: 5px;
 	padding-right: 30px;
+	font-weight: bold;
 }
 #container2 a:hover{
-	color:lightblue;
+	color: lightblue;
 }
 .box{
 	padding:20px;
@@ -87,7 +87,7 @@
 	width: 300px;
 	margin-bottom: 20px;
 }
-.row b{
+.row button{
 	display: block;
 	text-align: center;
 }
@@ -95,7 +95,11 @@
 	color: white;
 }
 .row a:hover{
-	color: lightblue;
+	text-decoration: none;
+}
+.row button:hover{
+	background: rgb(60, 60, 124);
+	border-color: rgb(60, 60, 124);
 }
 .box1{
 	margin-bottom: 40px;
